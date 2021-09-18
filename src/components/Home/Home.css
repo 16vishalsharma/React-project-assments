@@ -1,0 +1,82 @@
+.bannerImages{
+
+    width: 631px;
+    height: 620px;
+left: 0px;
+top: 0px;
+
+background: rgba(0, 0, 0, 0.38);
+}
+
+.container-class{
+    padding:0px !important;
+}
+.bannerRow{
+    margin-right: 0px !important;
+}
+.formStyle{
+    margin: 100px 40px 30px 10px;
+}
+.banner-text{
+    color: #FFFFFF;
+    width: 300px !important;
+    text-align: left;
+    position: absolute;
+    top: 34px;
+    left: 38px;
+}
+.form-label{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #545454;
+}
+.form-control{
+    width: 463px;
+    height: 57px;
+    left: 774px;
+    top: 157px;
+    
+    background: #ECECEC !important;
+    border-radius: 4px;
+}
+.logoImages{
+    width: 196px;
+    height: 81px;
+    top: 20px;
+    position: absolute;
+    display: inline-flex;
+    right: 34px;
+   
+  }
+  .bannerRow .GobackButtton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 28px;
+    margin-right: 0px !important;
+    margin-top: 20px;
+    width: 100% !important;
+    height: 54px !important;
+    border-color: #FF3838 !important;
+    background: #FF3838 !important;
+    border-radius: 4px;
+  }
+  .bannerRow .updateButtton{
+    border-color:#332272 !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 28px;  
+    margin-left: 0px !important;
+    width: 100% !important;
+    margin-top: 20px;
+    height: 54px !important;
+    background: #332272 !important;
+    border-radius: 4px;
+  }
